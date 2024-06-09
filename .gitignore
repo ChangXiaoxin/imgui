@@ -31,6 +31,17 @@ JSON/
 ## Commonly used CMake directories
 build*/
 
+## For VS
+bin/
+bin-int/
+
+*.user
+**.sln
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+**.csproj
+
 ## Xcode artifacts
 project.xcworkspace
 xcuserdata
